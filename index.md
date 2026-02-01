@@ -40,7 +40,7 @@ description: "Antoine Camerlo, Systems Engineer specializing in application deli
     <section class="about container mt-5" aria-labelledby="about-heading">
       <h2 id="about-heading">About Me</h2>
       <div class="about-content">
-        <p>I'm a passionate Systems Engineer with expertise in DevOps, infrastructure automation, and cloud computing.</p>
+        <p>I'm a passionate Systems Engineer with expertise in cloud computing, Application delivery and security.</p>
         <p>This portfolio showcases my projects, skills, and professional journey.</p>
       </div>
     </section>
