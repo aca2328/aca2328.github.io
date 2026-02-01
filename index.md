@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Antoine Camerlo - Systems Engineer"
-description: "Personal portfolio of Antoine Camerlo, Systems Engineer specializing in DevOps and infrastructure solutions."
+description: "Antoine Camerlo, Systems Engineer specializing in application delivery and infrastructure solutions."
 ---
 
 <div id="main-content">
